@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polliwidget</string>
+    <string name="settings">Indstillinger</string>
+    <string name="send">Send</string>
+    <string name="cancel">Annuller</string>
+    <string name="save">Gem</string>
+    <string name="clear_chat">Ryd samtale</string>
+    <string name="model">AI-model (gratis)</string>
+    <string name="api_key">API-nøgle</string>
+    <string name="write_message">Skriv en besked…</string>
+    <string name="write_to_claude">Skriv til AI</string>
+    <string name="empty_hint">Tryk på bjælken nedenfor for at chatte med gratis AI</string>
+    <string name="widget_description">Chat med gratis AI direkte fra hjemmeskærmen</string>
+    <string name="settings_intro">Gratis AI via Pollinations — ingen nøgle eller login nødvendig. Vælg blot en model.</string>
+    <string name="get_key_hint">Drevet af Pollinations.ai (gratis, open-source). Ingen konto, ingen betaling. Bemærk: gratis tjenester kan være langsommere eller fejle ind imellem.</string>
+</resources>
